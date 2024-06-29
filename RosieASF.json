@@ -365,7 +365,7 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 0.5,
     "url": "https://raw.githubusercontent.com/cataliner1024/Themeforme/main/BUZctfS4.jpg",
     "OPACITY": 0
   },
